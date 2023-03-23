@@ -1,0 +1,16 @@
+Link to unlisted YouTube video:
+
+Public link to the slide:
+
+
+Paper title:
+A Performance Evaluation of Correlated and Dynamic Topic Modeling on a QA Dataset
+
+https://ieeexplore.ieee.org/document/8822023
+
+
+Group Number:
+11
+
+Individual Submitter:
+23141036 Md. Anonto Shuvo
