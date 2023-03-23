@@ -2,12 +2,13 @@ Overleaf link
 https://www.overleaf.com/5112392524rthcndznzqzg 
 
 Link to unlisted YouTube video:
+https://youtu.be/E0VK9UNOHvw 
 
 Public link to the slide:
+https://docs.google.com/presentation/d/1A14TSJ9F06o_G28YjTiYTU6yahZkyWn4hB0QcRhY9vs/edit?usp=sharing 
 
 Project title: 
 Dynamic Topic Modeling for Temporal Analysis of News Articles
-
 
 Group Number:
 11
