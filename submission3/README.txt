@@ -10,9 +10,9 @@ Native/original format:
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
-Jurafsky
+Dan Jurafsky and James H. Martin
 3rd edition
-2014
+2023
 Pearson
 
 Link to the book:
