@@ -6,7 +6,7 @@ Two public links to the Concept Map:
 PDF: 
 
 Native/original format: 
-
+https://drive.google.com/file/d/16aBobVXqY2o3Nrjql-j5spor_eZ3xrye/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
