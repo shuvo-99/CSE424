@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Dynamic Topic Modeling for Temporal Analysis of News Articles
+A Comparative Analysis of Topic Modelling Methods for Temporal Analysis of News Articles
 
 Paper presentation (anyone can view without login):
 
