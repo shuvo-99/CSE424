@@ -2,16 +2,13 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/wrsmcndkdpts
 
 Unlisted YouTube video:
-
+https://youtu.be/R0fLF4YVSss 
 
 Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
 A Comparative Analysis of Topic Modelling Methods for Temporal Analysis of News Articles
-
-Paper presentation (anyone can view without login):
-
 
 Paper submission date (to workshop/conference):
 
