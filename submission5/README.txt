@@ -4,27 +4,18 @@ https://www.overleaf.com/read/wrsmcndkdpts
 Unlisted YouTube video:
 https://youtu.be/WZzMsfLfito 
 
-Conference submitted paper / paper submission / login Link:
-
+Conference submitted paper / paper submission / login Link: http://www.unitemeet.org/Author/Login.aspx?CID=146 
 
 Paper title:
 A Comparative Analysis of Topic Modelling Methods for Temporal Analysis of News Articles
 
+Paper submission date (to workshop/conference): 11-May-2023
 
-Paper presentation (anyone can view without login):
+Paper submission ID: (received) from conference/workshop: 7431
 
+Conference Name: 2023 IEEE 11th International Conference on Computer Science and Network Technology
 
-Paper submission date (to workshop/conference):
-
-
-Paper submission ID: (received) from conference/workshop
-
-
-Conference Name:
-
-
-Conference URL:
-
+Conference URL: http://www.iccsnt.org/ICCSNT2023/ShowArticle.asp?ArticleID=976 
 
 Group Number:
 11
